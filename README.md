@@ -1,2 +1,2 @@
 # PyApp
-App em python feito através do PyQt5
+Série de Apps em python feitos através do PyQt5
